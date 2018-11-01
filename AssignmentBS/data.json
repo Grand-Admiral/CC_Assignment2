@@ -1,0 +1,111 @@
+ {
+     "Game": "BattleShips",
+     "Menu":[
+         {
+            "title":"Welcome to the Fleet"
+         },
+         {
+            "title":"Play Game"
+         },
+         {
+            "title":"Set ship's starting tiles:",
+            "message": "(You can submit multiple times)",
+             "X":"X:",
+             "Y":"Y:"
+         },
+         {
+             "title":"# of Enemy ships:",
+             "title2": "Grid size:"
+         },
+         {
+             "title": "Count Down challenge Number:"
+         }
+
+     ],
+     "EndScrene":
+         {
+             "ships":[
+                 {
+                     "x": 600,
+                     "y": 300,
+                     "angle":-25,
+                     "speed": 2,
+                     "scale": 0.15
+                 },
+                 {
+                     "x": 400,
+                     "y": 100,
+                     "angle":200,
+                     "speed": 1,
+                     "scale": 0.17
+                 },
+                 {
+                     "x": 200,
+                     "y": 400,
+                     "angle":90,
+                     "speed": 0.5,
+                     "scale": 0.1
+                 },
+                 {
+                     "x": 300,
+                     "y": 400,
+                     "angle":45,
+                     "speed": 1,
+                     "scale": 0.1
+                 }
+             ]
+         },
+
+         "Score1":{
+           "name": "Jack",
+           "score": 25,
+           "date": "24/09/2018"
+         },
+         "Score2":{
+           "name": "Ralph",
+           "score": 32,
+           "date": "23/09/2018"
+         },
+         "Score3":{
+           "name": "John",
+           "score": 35,
+           "date": "22/09/2018"
+         },
+         "Score4":{
+           "name": "That Guy",
+           "score": 25,
+           "date": "21/09/2018"
+         },
+         "Score5":{
+           "name": "John",
+           "score": 35,
+           "date": "22/09/2018"
+         },
+         "Score6":{
+           "name": "Ralph",
+           "score": 32,
+           "date": "23/09/2018"
+         },
+         "Score7":{
+           "name": "Jack",
+           "score": 25,
+           "date": "24/09/2018"
+         },
+         "Score8":{
+           "name": "That Guy",
+           "score": 25,
+           "date": "21/09/2018"
+         },
+         "Score9":{
+           "name": "Jack",
+           "score": 25,
+           "date": "24/09/2018"
+         },
+         "Score10":{
+           "name": "John",
+           "score": 35,
+           "date": "22/09/2018"
+         }
+
+
+ }
